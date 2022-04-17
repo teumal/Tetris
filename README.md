@@ -37,4 +37,4 @@
 
 <img src="https://user-images.githubusercontent.com/50792697/163720521-c59e65a0-9fc1-48a4-af66-93e8d98151c5.PNG" width='600' height='500'>
 
-
+게임이 끝나게 되면, 위와 같은 메세지를 받게 됩니다. 
